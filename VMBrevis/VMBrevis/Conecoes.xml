@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conexoes>
+  <ReservasOnline>Data Source=DESKTOP-LE9H532; Initial Catalog=ReservasOnline;Integrated Security=True;MultipleActiveResultSets=true;</ReservasOnline>
+</conexoes>
