@@ -12,3 +12,5 @@ O ganho de desenvolvimento por classe é real e muito antigo, este projeto tem a
 O uso do VMBrevis é livre e aceita melhorias, só peço que se houver melhorias, poste este para outras pessoas possam utilizá-las e melhorar ainda mais o método.
 
 A Vira Mundo é uma empresa particular, que visa colocar seu país  no caminho da tecnologia web avançada, sem a utilização de servidores externos, com um fluxo de processamento e armazenagem compartilhada.
+
+Linkedin - www.linkedin.com/in/muspsoft/
